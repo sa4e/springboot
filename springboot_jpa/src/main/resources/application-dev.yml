@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  context-path: /
+#自定义的属性
+girl:
+  cup-size: F
+  age: 18
